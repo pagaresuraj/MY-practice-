@@ -5,3 +5,5 @@ data = r.json()
 print(data)
 df = pd.DataFrame(data, index=[0])
 print(df)
+
+. /Users/consultadd/PycharmProjects/surajtest
